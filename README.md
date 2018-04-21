@@ -21,4 +21,4 @@ Pour la modification et les tests, il est nécessaire d'installer [Anaconda](htt
 
 Ce repository git présente plusieurs méthodes que nous avons testés pour effectuer la prédiction.
 * visualizing permet d'avoir un premier aperçu des données.
-* Les méthodes de prédiction ont chacune leur dossier. Nous conseillons de les explorer dans cette ordre : Average Forecast, Regression, AR, ARIMA puis LMTS.
+* Les méthodes de prédiction ont chacune leur dossier. Les fichiers Notebook contenant les explications sont au format .ipynb. Nous conseillons de les explorer dans cette ordre : Average Forecast, Regression, AR, ARIMA puis LMTS.
